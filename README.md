@@ -6,7 +6,7 @@ Site desenvolvido para uma barbearia, com foco em design moderno, responsividade
 
 ## 🌐 Acesse o projeto
 
-🔗 [Clique aqui para ver o site](https://SEU-USUARIO.github.io/barbearia-primus/)
+🔗 [Clique aqui para ver o site](https://rrenatodevs.github.io/barbearia-primus/)
 
 ---
 
@@ -54,4 +54,4 @@ Durante o desenvolvimento, foram trabalhados conceitos como:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/barbearia-primus.git
+git clone https://github.com/rrenatodevs/barbearia-primus.git
