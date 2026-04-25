@@ -6,7 +6,7 @@ Site desenvolvido para uma barbearia, com foco em design moderno, responsividade
 
 ## 🌐 Acesse o projeto
 
-🔗 [Clique aqui para ver o site](https://rrenatodevs.github.io/barbearia-primus/)
+🔗 [Clique aqui para ver o site](https://rrenatodevs.github.io/Projeto-BarberShop/)
 
 ---
 
