@@ -420,3 +420,13 @@ footer {
         flex-direction: column;
     }
 }
+
+/* MOBILE: mostrar botão sempre (sem depender de hover) */
+@media (hover: none) and (pointer: coarse) {
+
+  .card-btn {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+}
